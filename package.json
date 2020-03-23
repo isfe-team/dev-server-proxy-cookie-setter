@@ -1,6 +1,6 @@
 {
   "name": "@isfe/dev-server-proxy-cookie-setter",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "cookies set",
   "main": "index.js",
   "scripts": {
