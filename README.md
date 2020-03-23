@@ -1,7 +1,7 @@
 # dev-server-proxy-cookie-setter
 
-## Usages
+## Usage
 
 ```bash
-$ npm i -S @isfe/dev-server-proxy-cookie-setter
+$ npm i -D @isfe/dev-server-proxy-cookie-setter
 ```
