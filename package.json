@@ -1,0 +1,30 @@
+{
+  "name": "@isfe/dev-server-proxy-cookie-setter",
+  "version": "0.1.1",
+  "description": "cookies set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isfe-team/dev-server-proxy-cookie-setter.git"
+  },
+  "keywords": [
+    "config",
+    "cookies"
+  ],
+  "author": "hxli8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isfe-team/dev-server-proxy-cookie-setter/issues"
+  },
+  "homepage": "https://github.com/isfe-team/dev-server-proxy-cookie-setter#readme",
+  "dependencies": {
+    "rollup": "^2.1.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}
